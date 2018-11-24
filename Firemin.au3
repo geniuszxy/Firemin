@@ -31,7 +31,7 @@
 ;===============================================================================================================
 #AutoIt3Wrapper_Res_Comment=Firemin									;~ Comment field
 #AutoIt3Wrapper_Res_Description=Firemin						      	;~ Description field
-#AutoIt3Wrapper_Res_Fileversion=6.2.3.5056
+#AutoIt3Wrapper_Res_Fileversion=6.2.3.5061
 #AutoIt3Wrapper_Res_FileVersion_AutoIncrement=Y  					;~ (Y/N/P) AutoIncrement FileVersion. Default=N
 #AutoIt3Wrapper_Res_FileVersion_First_Increment=N					;~ (Y/N) AutoIncrement Y=Before; N=After compile. Default=N
 #AutoIt3Wrapper_Res_HiDpi=N                      					;~ (Y/N) Compile for high DPI. Default=N
@@ -113,47 +113,48 @@
 #AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\de.ico					; 234
 #AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\el.ico					; 235
 #AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\es.ico					; 236
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\fr.ico					; 237
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\hi.ico					; 238
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\hr.ico					; 239
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\hu.ico					; 240
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\id.ico					; 241
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\is.ico					; 242
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\it.ico					; 243
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\iw.ico					; 244
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\ja.ico					; 245
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\ko.ico					; 246
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\nl.ico					; 247
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\no.ico					; 248
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\pl.ico					; 249
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\pt.ico					; 250
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\pt-BR.ico				; 251
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\ro.ico					; 252
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\ru.ico					; 253
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\sl.ico					; 254
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\sk.ico					; 255
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\sv.ico					; 256
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\th.ico					; 257
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\tr.ico					; 258
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\vi.ico					; 259
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\zh-CN.ico				; 260
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\zh-TW.ico				; 261
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\fa.ico					; 237
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\fr.ico					; 238
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\hi.ico					; 239
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\hr.ico					; 240
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\hu.ico					; 241
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\id.ico					; 242
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\is.ico					; 243
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\it.ico					; 244
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\iw.ico					; 245
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\ja.ico					; 246
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\ko.ico					; 247
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\nl.ico					; 248
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\no.ico					; 249
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\pl.ico					; 250
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\pt.ico					; 251
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\pt-BR.ico				; 252
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\ro.ico					; 253
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\ru.ico					; 254
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\sl.ico					; 255
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\sk.ico					; 256
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\sv.ico					; 257
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\th.ico					; 258
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\tr.ico					; 259
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\vi.ico					; 260
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\zh-CN.ico				; 261
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Flags\zh-TW.ico				; 262
 
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Power\Power-0.ico				; 262
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Power\Power-1.ico				; 263
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Power\Power-2.ico				; 264
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Power\Power-3.ico				; 265
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Power\Power-4.ico				; 266
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Power\Power-5.ico				; 267
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Power\Power-0.ico				; 263
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Power\Power-1.ico				; 264
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Power\Power-2.ico				; 265
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Power\Power-3.ico				; 266
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Power\Power-4.ico				; 267
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Power\Power-5.ico				; 268
 
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Menus\Gear.ico				; 268
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Menus\Logbook.ico				; 269
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Menus\Close.ico				; 270
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Menus\Update.ico				; 271
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Menus\Home.ico				; 272
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Menus\Support.ico				; 273
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Menus\GitHub.ico				; 274
-#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Menus\About.ico				; 275
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Menus\Gear.ico				; 269
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Menus\Logbook.ico				; 270
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Menus\Close.ico				; 271
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Menus\Update.ico				; 272
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Menus\Home.ico				; 273
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Menus\Support.ico				; 274
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Menus\GitHub.ico				; 275
+#AutoIt3Wrapper_Res_Icon_Add=Themes\Icons\Menus\About.ico				; 276
 
 ;===============================================================================================================
 ; Tidy Settings
@@ -262,7 +263,7 @@ Global Const $DEBUG_UPDATE		= False
 ;~ Constants
 Global Const $CNT_MENUICONS		= 8
 Global Const $CNT_LOGICONS		= 7
-Global Const $CNT_LANGICONS		= 34
+Global Const $CNT_LANGICONS		= 35
 
 ;~ General Settings
 Global $g_sCompanyName			= "Rizonesoft"
@@ -329,8 +330,8 @@ Global $g_iUpdateIconStart				= 209
 Global $g_iDialogIconStart				= 211
 Global $g_iAboutIconStart				= 216
 Global $g_iLangIconStart				= 228
-Global $g_iPowerIconsStart				= 262
-Global $g_iMenuIconsStart				= 268
+Global $g_iPowerIconsStart				= 263
+Global $g_iMenuIconsStart				= 269
 
 Global $g_aCoreIcons[3]
 Global $g_iSizeIcon						= 64
@@ -658,7 +659,7 @@ Func _StartCoreGui()
 
 	$g_hChkCleanLimit = GUICtrlCreateCheckbox(Chr(32) & $g_aLangCustom[10], 20, 338, 270, 20)
 	$g_hComboCleanLimit = GUICtrlCreateCombo("", 290, 339, 55, 20)
-	GUICtrlSetData($g_hComboCleanLimit, "100|200|300|400|500|600|700|800|900|1000|1200|1400|1600|1800|2000|2300|2600|2900|3200|3500|3800|4100|4400|4700|5000", $g_iCleanLimit)
+	GUICtrlSetData($g_hComboCleanLimit, "5|10|20|50|100|200|300|400|500|600|700|800|900|1000|1200|1400|1600|1800|2000|2300|2600|2900|3200|3500|3800|4100|4400|4700|5000", $g_iCleanLimit)
 	GUICtrlCreateLabel("MB", 352, 341, 50, 20)
 	$g_hChkBrowserAutoStart = GUICtrlCreateCheckbox(Chr(32) & StringFormat($g_aLangCustom[11], $g_sBrowserName), 20, 361, 320, 20)
 	$g_hChkExtendedProcs = GUICtrlCreateCheckbox(Chr(32) & $g_aLangCustom[12], 20, 384, 220, 20)
@@ -817,30 +818,31 @@ Func _SetResources()
 		$g_aLanguageIcons[7]  = $g_sThemesDir & "\Icons\Flags\el.ico"
 		$g_aLanguageIcons[8]  = $g_sThemesDir & "\Icons\Flags\es.ico"
 		$g_aLanguageIcons[9]  = $g_sThemesDir & "\Icons\Flags\fr.ico"
-		$g_aLanguageIcons[10] = $g_sThemesDir & "\Icons\Flags\hi.ico"
-		$g_aLanguageIcons[11] = $g_sThemesDir & "\Icons\Flags\hr.ico"
-		$g_aLanguageIcons[12] = $g_sThemesDir & "\Icons\Flags\hu.ico"
-		$g_aLanguageIcons[13] = $g_sThemesDir & "\Icons\Flags\id.ico"
-		$g_aLanguageIcons[14] = $g_sThemesDir & "\Icons\Flags\is.ico"
-		$g_aLanguageIcons[15] = $g_sThemesDir & "\Icons\Flags\it.ico"
-		$g_aLanguageIcons[16] = $g_sThemesDir & "\Icons\Flags\iw.ico"
-		$g_aLanguageIcons[17] = $g_sThemesDir & "\Icons\Flags\ja.ico"
-		$g_aLanguageIcons[18] = $g_sThemesDir & "\Icons\Flags\ko.ico"
-		$g_aLanguageIcons[19] = $g_sThemesDir & "\Icons\Flags\nl.ico"
-		$g_aLanguageIcons[20] = $g_sThemesDir & "\Icons\Flags\no.ico"
-		$g_aLanguageIcons[21] = $g_sThemesDir & "\Icons\Flags\pl.ico"
-		$g_aLanguageIcons[22] = $g_sThemesDir & "\Icons\Flags\pt.ico"
-		$g_aLanguageIcons[23] = $g_sThemesDir & "\Icons\Flags\pt-BR.ico"
-		$g_aLanguageIcons[24] = $g_sThemesDir & "\Icons\Flags\ro.ico"
-		$g_aLanguageIcons[25] = $g_sThemesDir & "\Icons\Flags\ru.ico"
-		$g_aLanguageIcons[26] = $g_sThemesDir & "\Icons\Flags\sl.ico"
-		$g_aLanguageIcons[27] = $g_sThemesDir & "\Icons\Flags\sk.ico"
-		$g_aLanguageIcons[28] = $g_sThemesDir & "\Icons\Flags\sv.ico"
-		$g_aLanguageIcons[29] = $g_sThemesDir & "\Icons\Flags\th.ico"
-		$g_aLanguageIcons[30] = $g_sThemesDir & "\Icons\Flags\tr.ico"
-		$g_aLanguageIcons[31] = $g_sThemesDir & "\Icons\Flags\vi.ico"
-		$g_aLanguageIcons[32] = $g_sThemesDir & "\Icons\Flags\zh-CN.ico"
-		$g_aLanguageIcons[33] = $g_sThemesDir & "\Icons\Flags\zh-TW.ico"
+		$g_aLanguageIcons[10]  = $g_sThemesDir & "\Icons\Flags\fr.ico"
+		$g_aLanguageIcons[11] = $g_sThemesDir & "\Icons\Flags\hi.ico"
+		$g_aLanguageIcons[12] = $g_sThemesDir & "\Icons\Flags\hr.ico"
+		$g_aLanguageIcons[13] = $g_sThemesDir & "\Icons\Flags\hu.ico"
+		$g_aLanguageIcons[14] = $g_sThemesDir & "\Icons\Flags\id.ico"
+		$g_aLanguageIcons[15] = $g_sThemesDir & "\Icons\Flags\is.ico"
+		$g_aLanguageIcons[16] = $g_sThemesDir & "\Icons\Flags\it.ico"
+		$g_aLanguageIcons[17] = $g_sThemesDir & "\Icons\Flags\iw.ico"
+		$g_aLanguageIcons[18] = $g_sThemesDir & "\Icons\Flags\ja.ico"
+		$g_aLanguageIcons[19] = $g_sThemesDir & "\Icons\Flags\ko.ico"
+		$g_aLanguageIcons[20] = $g_sThemesDir & "\Icons\Flags\nl.ico"
+		$g_aLanguageIcons[21] = $g_sThemesDir & "\Icons\Flags\no.ico"
+		$g_aLanguageIcons[22] = $g_sThemesDir & "\Icons\Flags\pl.ico"
+		$g_aLanguageIcons[23] = $g_sThemesDir & "\Icons\Flags\pt.ico"
+		$g_aLanguageIcons[24] = $g_sThemesDir & "\Icons\Flags\pt-BR.ico"
+		$g_aLanguageIcons[25] = $g_sThemesDir & "\Icons\Flags\ro.ico"
+		$g_aLanguageIcons[26] = $g_sThemesDir & "\Icons\Flags\ru.ico"
+		$g_aLanguageIcons[27] = $g_sThemesDir & "\Icons\Flags\sl.ico"
+		$g_aLanguageIcons[28] = $g_sThemesDir & "\Icons\Flags\sk.ico"
+		$g_aLanguageIcons[29] = $g_sThemesDir & "\Icons\Flags\sv.ico"
+		$g_aLanguageIcons[30] = $g_sThemesDir & "\Icons\Flags\th.ico"
+		$g_aLanguageIcons[31] = $g_sThemesDir & "\Icons\Flags\tr.ico"
+		$g_aLanguageIcons[32] = $g_sThemesDir & "\Icons\Flags\vi.ico"
+		$g_aLanguageIcons[33] = $g_sThemesDir & "\Icons\Flags\zh-CN.ico"
+		$g_aLanguageIcons[34] = $g_sThemesDir & "\Icons\Flags\zh-TW.ico"
 
 		$g_aMenuIcons[0] = $g_sThemesDir & "\Icons\Menus\Gear.ico"
 		$g_aMenuIcons[1] = $g_sThemesDir & "\Icons\Menus\Logbook.ico"
@@ -1785,81 +1787,84 @@ Func __ISO639CodeToIndex($i639 = "en")
 		Case "es"
 			$aLangInfo[0] = "Spanish"
 			$aLangInfo[1] = 8
+		Case "fa"
+			$aLangInfo[0] = "Persian"
+			$aLangInfo[1] = 9
 		Case "fr"
 			$aLangInfo[0] = "French"
-			$aLangInfo[1] = 9
+			$aLangInfo[1] = 10
 		Case "hi"
 			$aLangInfo[0] = "Hindi"
-			$aLangInfo[1] = 10
+			$aLangInfo[1] = 11
 		Case "hr"
 			$aLangInfo[0] = "Croatian"
-			$aLangInfo[1] = 11
+			$aLangInfo[1] = 12
 		Case "hu"
 			$aLangInfo[0] = "Hungarian"
-			$aLangInfo[1] = 12
+			$aLangInfo[1] = 13
 		Case "id"
 			$aLangInfo[0] = "Indonesian"
-			$aLangInfo[1] = 13
+			$aLangInfo[1] = 14
 		Case "is"
 			$aLangInfo[0] = "Icelandic"
-			$aLangInfo[1] = 14
+			$aLangInfo[1] = 15
 		Case "it"
 			$aLangInfo[0] = "Italian"
-			$aLangInfo[1] = 15
+			$aLangInfo[1] = 16
 		Case "iw"
 			$aLangInfo[0] = "Hebrew"
-			$aLangInfo[1] = 16
+			$aLangInfo[1] = 17
 		Case "ja"
 			$aLangInfo[0] = "Japanese"
-			$aLangInfo[1] = 17
+			$aLangInfo[1] = 18
 		Case "ko"
 			$aLangInfo[0] = "Korean"
-			$aLangInfo[1] = 18
+			$aLangInfo[1] = 19
 		Case "nl"
 			$aLangInfo[0] = "Dutch"
-			$aLangInfo[1] = 19
+			$aLangInfo[1] = 20
 		Case "no"
 			$aLangInfo[0] = "Norwegian"
-			$aLangInfo[1] = 20
+			$aLangInfo[1] = 21
 		Case "pl"
 			$aLangInfo[0] = "Polish"
-			$aLangInfo[1] = 21
+			$aLangInfo[1] = 22
 		Case "pt"
 			$aLangInfo[0] = "Portuguese"
-			$aLangInfo[1] = 22
+			$aLangInfo[1] = 23
 		Case "pt-BR"
 			$aLangInfo[0] = "Portuguese (Brazil)"
-			$aLangInfo[1] = 23
+			$aLangInfo[1] = 24
 		Case "ro"
 			$aLangInfo[0] = "Romanian"
-			$aLangInfo[1] = 24
+			$aLangInfo[1] = 25
 		Case "ru"
 			$aLangInfo[0] = "Russian"
-			$aLangInfo[1] = 25
+			$aLangInfo[1] = 26
 		Case "sl"
 			$aLangInfo[0] = "Slovenian"
-			$aLangInfo[1] = 26
+			$aLangInfo[1] = 27
 		Case "sk"
 			$aLangInfo[0] = "Slovak"
-			$aLangInfo[1] = 27
+			$aLangInfo[1] = 28
 		Case "sv"
 			$aLangInfo[0] = "Swedish"
-			$aLangInfo[1] = 28
+			$aLangInfo[1] = 29
 		Case "th"
 			$aLangInfo[0] = "Thai"
-			$aLangInfo[1] = 29
+			$aLangInfo[1] = 30
 		Case "tr"
 			$aLangInfo[0] = "Turkish"
-			$aLangInfo[1] = 30
+			$aLangInfo[1] = 31
 		Case "vi"
 			$aLangInfo[0] = "Vietnamese"
-			$aLangInfo[1] = 31
+			$aLangInfo[1] = 32
 		Case "zh-CN"
 			$aLangInfo[0] = "Simplified Chinese"
-			$aLangInfo[1] = 32
+			$aLangInfo[1] = 33
 		Case "zh-TW"
 			$aLangInfo[0] = "Traditional Chinese"
-			$aLangInfo[1] = 33
+			$aLangInfo[1] = 34
 	EndSwitch
 
 	Return $aLangInfo
